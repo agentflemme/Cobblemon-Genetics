@@ -1,4 +1,4 @@
-# Cobblemon Genetics
+# Cobblemon Genetics (WIP)
 
 A comprehensive genetics system mod for [Cobblemon](https://cobblemon.com/) that introduces advanced DNA manipulation and Pokemon breeding mechanics.
 
@@ -8,21 +8,20 @@ Cobblemon Genetics adds a sophisticated genetic system to Cobblemon, allowing pl
 
 ## ✨ Features
 
-### DNA Extraction & Analysis
-- **DNA Extractor**: Extract genetic material from your Pokemon to analyze their genetic code
-- **Genetic Analysis**: Discover hidden traits, potential abilities, and hereditary characteristics
-
-### Advanced Processing Machines
 - **Centrifuge**: Separate and purify DNA components for analysis and modification
 - **DNA Splicer**: Combine genetic material from different Pokemon species to create hybrid traits
 - **Genetic Condensator**: Concentrate and stabilize genetic sequences for improved breeding outcomes
-- **Gestation Unit**: The ultimate breeding machine that uses processed DNA to create new Pokemon with engineered genetics
+- **Gestation Unit**: Uses processed DNA to create new Pokemons based on extracted DNA
+- Probably more coming soon...
 
 ### Genetic Engineering
-- Create Pokemon with specific stat distributions
+- Create Pokémon with specific stat distributions
 - Combine abilities and traits from different species
-- Develop Pokemon with enhanced or unique characteristics
-- Preserve rare genetic traits across generations
+- DNA gestation to get the rarest pokémon, maybe even the legendary ones (can be tweaked)
+- DNA research system to unlock rarer pokémon, hidden abilities, color palettes, etc
+- There is a chance for any gestation to fail, can be tweaked with the config files
+- DNA mutation system which can be both positive and negative
+- DNA storage system
 
 ## 🔧 Technical Information
 
@@ -38,15 +37,7 @@ Cobblemon Genetics adds a sophisticated genetic system to Cobblemon, allowing pl
 3. Download Cobblemon Genetics mod
 4. Place the mod file in your `mods` folder
 5. Launch Minecraft and enjoy genetic engineering!
-
-## 🧪 Getting Started
-
-1. **Extract DNA**: Use the DNA Extractor on your Pokemon to obtain genetic samples
-2. **Process Samples**: Run the DNA through the Centrifuge to separate components
-3. **Modify Genetics**: Use the Splicer to combine desirable traits from different Pokemon
-4. **Stabilize Results**: Process modified DNA in the Condensator for optimal results
-5. **Create New Pokemon**: Use the Gestation Unit to bring your genetic creations to life
-
+6. 
 ## 🎯 Planned Features
 
 - [ ] Create the machines: Centrifuge, Splicer, Condensator, and Gestation Unit
