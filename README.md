@@ -49,12 +49,13 @@ Cobblemon Genetics adds a sophisticated genetic system to Cobblemon, allowing pl
 
 ## 🎯 Planned Features
 
-- [ ] Advanced genetic trait inheritance system
+- [ ] Create the machines: Centrifuge, Splicer, Condensator, and Gestation Unit
+- [ ] Implement DNA extraction and analysis tools
 - [ ] Genetic mutation mechanics
 - [ ] DNA storage and cataloging system
 - [ ] Cross-species hybrid compatibility
 - [ ] Genetic research progression system
-- [ ] Integration with Cobblemon's existing breeding mechanics
+- [ ] Yeah, pretty much everything is yet to do
 
 ## 🤝 Contributing
 
