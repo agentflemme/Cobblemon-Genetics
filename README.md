@@ -69,7 +69,7 @@ This mod is proprietary software developed by agentflemme. All rights are reserv
 
 ## 🐛 Bug Reports & Support
 
-If you encounter any issues or have suggestions for improvement, please report them through the appropriate channels.
+If you encounter any issues or have suggestions for improvement, please report them through the appropriate channels. You can do so either by submitting an issue on this repo or by joining the Regicraft II Discord (the modpack which this mod is linked to): https://discord.com/invite/W6CpSurCMW
 
 ## 🏷️ Version Information
 
